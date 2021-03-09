@@ -46,7 +46,7 @@ It contains 2 POST APIs
 Request Body- 
     {
         "user_id": "12345",
-        "phone": "7654345123",
+        "phone": "9560164923",
         "query": "hey there! I have a query"
     }**
     
@@ -55,6 +55,6 @@ Request Body-
 **Request URL-  {{url}}/api/agent/login  
  Request Body- 
      {
-         "username": "abhinav",
+         "username": "aman",
          "password": "12345"
      }** 
