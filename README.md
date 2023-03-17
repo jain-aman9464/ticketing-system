@@ -6,7 +6,7 @@ I have used the queue and inserting all the tickets into it and process the tick
 Also handled the cases when some system fault occurs(e.g server stops working) and loses the queue. For handling this, we are again assigning the tickets into the queue as when the service restarts.  
 
 Clone this project
-- `git clone https://github.com/abhinavmaury/ticket-service.git`
+- `git clone https://github.com/jain-aman9464/ticket-service.git`
 
 Import in IDE and run-
 It will run on port 9000
